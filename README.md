@@ -34,7 +34,7 @@ Breadboard adalah perangkat atau papan percobaan yang digunakan dalam elektronik
     
 ![image](https://hackmd.io/_uploads/SyOKIMHuT.png)
     
-Untuk menghubungkan laptop dengan wemos node MC
+Untuk menghubungkan dari laptop ke node mcu
 
 4.	HCS 04 Ultrasonic
 
